@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
   background-color: rgb(85, 85, 124);
 }
@@ -11,18 +10,4 @@ body {
 .cube {
   height: 50px;
   width: 50px;
-=======
-body {
-  background-color: blue;
-}
-.cube {
-  height: 50px;
-  width: 50px;
-  float: left;
-}
-.board {
-  height: 50px;
-  float: none;
-  margin-left: 40%;
->>>>>>> 98ffd3a62df180be3b9bf98e5e3efdb23c6c733d
 }
