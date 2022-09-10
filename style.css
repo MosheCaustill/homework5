@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(85, 85, 124);
+}
+.board {
+  height: 50px;
+  display:         flex;
+  flex-wrap:       wrap;
+  justify-content: center;
+}
+.cube {
+  height: 50px;
+  width: 50px;
+}
